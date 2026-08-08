@@ -1,0 +1,58 @@
+{
+  "warli": {
+    "state": "Maharashtra",
+    "region": "Palghar, Thane, Nashik districts",
+    "history": "One of the oldest tribal art forms in India, practiced by the Warli tribe for centuries, traditionally painted on mud walls using rice paste.",
+    "symbolism": "Depicts daily life, nature, and rituals using basic geometric shapes — circles, triangles, and lines representing the sun, mountains, and human figures.",
+    "youtube_id": "3AOt_xRkqmg"
+  },
+  "madhubani": {
+    "state": "Bihar",
+    "region": "Mithila region",
+    "history": "Also known as Mithila painting, traditionally created by women on freshly plastered mud walls and floors, dating back centuries.",
+    "symbolism": "Features intricate patterns, natural motifs, and mythological themes, often depicting Hindu deities and nature.",
+    "youtube_id": ""
+  },
+  "pichwai": {
+    "state": "Rajasthan",
+    "region": "Nathdwara",
+    "history": "Traditionally painted on cloth and hung behind the idol of Lord Krishna (Shrinathji) in temples.",
+    "symbolism": "Rich, detailed depictions of Krishna's life, often featuring cows, lotus flowers, and elaborate festival scenes.",
+    "youtube_id": "qRr0ZVlPGsI"
+  },
+  "kalighat": {
+    "state": "West Bengal",
+    "region": "Kolkata (near Kalighat temple)",
+    "history": "Emerged in the 19th century near the Kalighat temple, evolving from religious scroll painting into bold, satirical social commentary.",
+    "symbolism": "Characterized by bold, sweeping brushstrokes and flat colors, depicting deities as well as social and political themes.",
+    "youtube_id": "aZpX8unKJtw"
+  },
+  "kangra": {
+    "state": "Himachal Pradesh",
+    "region": "Kangra Valley",
+    "history": "Flourished in the 18th century under the patronage of the Kangra royal court, part of the broader Pahari painting tradition.",
+    "symbolism": "Delicate, lyrical style often depicting romantic and devotional themes, especially stories of Radha and Krishna.",
+    "youtube_id": ""
+  },
+  "kerala_mural": {
+    "state": "Kerala",
+    "region": "Statewide, especially temple towns",
+    "history": "An ancient temple art form found on the walls of temples and palaces across Kerala, dating back over a thousand years.",
+    "symbolism": "Vivid, elaborate depictions of Hindu mythology using a distinct palette of earthy reds, yellows, greens, and blacks.",
+    "youtube_id": ""
+  },
+  "mandana_art": {
+    "state": "Rajasthan",
+    "region": "Shekhawati and rural Rajasthan",
+    "history": "Traditionally drawn on floors and walls of homes during festivals and special occasions using red ochre and white chalk.",
+    "symbolism": "Geometric and floral patterns believed to bring good fortune, often drawn fresh for weddings and religious ceremonies.",
+    "youtube_id": ""
+  },
+  "gond": {
+    "state": "Madhya Pradesh",
+    "region": "Gondwana region",
+    "history": "Practiced by the Gond tribe, one of India's largest tribal communities, traditionally painted on walls and floors.",
+    "symbolism": "Dense, dotted patterns depicting nature, animals, and folklore, believed to bring good luck when displayed in homes.",
+    "youtube_id": "oHJ6hP4AwNc"
+  }
+}

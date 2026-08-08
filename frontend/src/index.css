@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500&family=Poppins:wght@400;600;700&display=swap');
+
+:root {
+  --bg-color: transparent;
+  --surface-color: rgba(26, 28, 30, 0.85);
+  --surface-border: rgba(42, 45, 48, 0.8);
+  --text-color: #eaeaea;
+  --text-muted: #a0a0a0;
+  --accent-terracotta: #b8632a;
+  --accent-gold: #c9973f;
+  --accent-maroon: #7a2d2d;
+  
+  --font-heading: 'Poppins', sans-serif;
+  --font-body: 'Nunito', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
